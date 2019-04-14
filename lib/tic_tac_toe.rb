@@ -21,7 +21,6 @@ def display_board(board)
 end
 
 
-input_to_index = user_input.to_i 
 
 
 
