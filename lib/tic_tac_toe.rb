@@ -1,4 +1,4 @@
-require_relative 
+'../bin/tic_tac_toe'
 
   WIN_COMBINATIONS = [
   [0,1,2], 
