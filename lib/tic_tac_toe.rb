@@ -22,6 +22,10 @@ def input_to_index(string)
   string.to_i 
 end
 
+def move(board, index, char)
+  if(is_valid?==true)
+    board[index]==board[char]
+    
 
 
 
