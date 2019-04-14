@@ -3,6 +3,8 @@
     "coverage": {
       "/home/balanced-anchor-3429/tic-tac-toe-rb-dc-fasttrack-041319/lib/tic_tac_toe.rb": [
         null,
+        null,
+        null,
         1,
         null,
         null,
@@ -30,6 +32,6 @@
         null
       ]
     },
-    "timestamp": 1555267121
+    "timestamp": 1555267182
   }
 }
