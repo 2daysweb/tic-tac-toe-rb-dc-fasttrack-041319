@@ -2,7 +2,17 @@
   "RSpec": {
     "coverage": {
       "/home/balanced-anchor-3429/tic-tac-toe-rb-dc-fasttrack-041319/lib/tic_tac_toe.rb": [
+        null,
         1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         1,
         5,
@@ -10,12 +20,14 @@
         5,
         5,
         5,
+        null,
+        null,
         null,
         null,
         null,
         null
       ]
     },
-    "timestamp": 1555266169
+    "timestamp": 1555266422
   }
 }
